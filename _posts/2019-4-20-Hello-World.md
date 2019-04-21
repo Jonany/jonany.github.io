@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 ---
 
-Welcome to my brand-spankin'-new blog!
+Welcome to my brand-spankin'-new blog! :zap: :tada: :confetti_ball: :raised_hands:
 
 Special thanks to Barry Clark for his [Jekyll Now](https://www.github.com/barryclark/jekyll-now) template for GitHub Pages! It made setting up this blog much easier.
 
