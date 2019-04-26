@@ -1,3 +1,3 @@
 ### Welcome!
 
-Click [here](jonany.github.io) to go to my blog.
+Click [here](https://jonany.github.io/) to go to my blog.
