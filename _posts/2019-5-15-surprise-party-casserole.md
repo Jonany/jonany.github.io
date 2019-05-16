@@ -2,7 +2,7 @@
 layout: post
 title: Surprise Party Casserole
 ---
-These past few days have been pretty crazy :grimacing: what with celebrating Sarah's (my wife :blush:) birthday, planning her surprise birthday party, and applying for jobs. But I managed to create a new recipe and pull off a lit surprise party! :tada: So to celebrate (again), I'm sharing the recipe I created (how thoughtful of me :smirk:). It has all the basic food groups: rice and cheese. Also meat. Those are the basic food groups, right? :confused: The Zhenjiang vinegar is the standout flavor in the dish and adds a sort of smoky sweetness.
+These past few days have been pretty crazy :grimacing: what with celebrating Sarah's (my wife :blush:) birthday, planning her surprise birthday party, and applying for jobs. But I managed to create a new recipe (with some help from my mom :grinning: :heart:) and pull off a lit surprise party! :tada: So to celebrate (again), I'm sharing the recipe I created (how thoughtful of me :smirk:). It has all the basic food groups: rice and cheese. Also meat. Those are the basic food groups, right? :confused: The Zhenjiang vinegar is the standout flavor in the dish and adds a sort of smoky sweetness.
 
 ### Ingredients
 
