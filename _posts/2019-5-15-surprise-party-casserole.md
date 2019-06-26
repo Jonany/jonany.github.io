@@ -18,7 +18,7 @@ These past few days have been pretty crazy :grimacing: what with celebrating Sar
 
 ### Instructions
 
-Brown the beef on low-medium heat with enough olive oil to coat the pan (I also added a bit more later), vinegar, salt, and pepper. I used a cast iron skillet and a copper pan but any pan will do.
+Brown the beef on low-medium heat with the vinegar, salt, pepper, and enough olive oil to coat the pan (I also added a bit more later). I used a cast iron skillet and a copper pan but any pan will do.
 
 [Caramelize][1] the onions (see link). This can take close to an hour.
 
