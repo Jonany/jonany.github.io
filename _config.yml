@@ -81,3 +81,5 @@ exclude:
   - README.md
   - CNAME
   - about.md
+
+theme: jekyll-theme-tactile
