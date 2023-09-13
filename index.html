@@ -20,12 +20,99 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <h1>Full Stack Developer</h1>
-      <sub>Ascend Performance Materials, 2019-Present</sub>
-      <h3>Production Monitoring System</h3>
-      <ul>
-        <li>Improved effiency</li>
+      <h2>Full Stack Developer @ Ascend Performance Materials</h2>
+      <sub><em>World's largest fully integrated producer of Nylon 66</em></sub>
+      <br>
+      <br>   
+
+      <h3>Modernized Maintenance Analysis System Saves $60k/Year</h3>
+      
+      For a manufacturing company like Ascend, maintenance is both essential and 
+      expensive. Data on past repairs is key to reducing costs and improving 
+      up-times. The existing system for storing this data was showing its age and 
+      fragility and keeping it running was starting to get expensive. It had been 
+      built in an early version of ASP.NET, used multiple MS Access databases, and 
+      ran on an outdated server. Its task scheduling (used for morning emails and 
+      data pulls) was unreliable and required daily contact. And, as you might have 
+      guessed, ran only in IE and not very quickly. That's where I came in.
+      
+      <h4>Improved system reliability reduced costs and lost productivity time</h4>
+      
+      <div style="margin-bottom: 1vh;">
+        In the old system, Windows Task Scheduler was used to automate key 
+        processes. This approach was failure prone and required frequent 
+        intervention from valuable resources and prevented users from, well, using 
+        the system.
+      </div>
+      <div style="margin-bottom: 1vh;">
+        An automation tool called VisualCron was used throughout the company
+        for automation tasks and it included needed functionality built-in so it 
+        was an easy choice. It proved to be a much more reliable platform for 
+        automating processes. Sadly, its error reporting is rather lacking.
+      </div>
+      <div>
+        If I had to do it over again, I would write a C# console
+        application for each automation and deploy it either as a Windows Service
+        or as a Azure Container App (Azure Kubernetes). This approach would allow
+        the applications to make use of the rich monitoring tools in the
+        C#/.NET/Azure ecosystem.
+      </div>
+      
+      
+      <h4>Improved ease of support by using team-standard technologies</h4>
+      
+      <div style="margin-bottom: 1vh;">
+        The old system ran on unsupported Windows server, used MS Access DBs, and 
+        was built-in ASP.NET 2.0. To top it off, the original developer had left 
+        the company. All of which added up to support pain in the neck.
+      </div>
+      <div style="margin-bottom: 1vh;">
+        The new system was built using .NET 5 (the latest version at the time), 
+        Angular 12, and Microsoft SQL Server. All these technologies are standards
+        for the dev team. This made it much simpler for any of the other developers 
+        to provide support.
+      </div>
+      
+      
+      <h4>Built automated CI/CD pipelines in Azure DevOps</h4>
+      
+      <div style="margin-bottom: 1vh;">
+        As you might expect, no automation existed. If you wanted something built or 
+        deployed, you had to do manually. Creating build and deploy pipelines in 
+        Azure DevOps solved that problem. Initially I used the GUI editor to define 
+        the pipelines since I was most familiar it. However, I eventually switched to 
+        using YAML-defined pipelines. Even though the GUI editor was more 
+        straightforward to use, YAML-defined pipelines had the advantage of being 
+        version-controllable which was worth the tradeoff. Building the pipeline in 
+        YAML should have been easy given that the pipelines were basic but because 
+        Microsoft is really bad at documenting its products and YAML-defined 
+        pipelines are relatively new for Azure DevOps, creating them was harder than 
+        it should have been.
+      </div>
+      
+      
+      <h4>Worked closely with business stakeholders to ensure the new system felt familiar</h4>
+      
+      <div style="margin-bottom: 1vh;">
+        While the existing system was ugly and slow, it did work and the users were 
+        familiar with it. Regular meetings with users helped produced a new system 
+        that was both new and familiar. The new system was familiar enough that 
+        instead of time-consuming training sessions to help everyone transition, a 
+        single, one-hour meeting was all that was required to transition users to 
+        the new system.
+      </div>
+      
+      <!-- <ul>
+        <li>Reduced application complexity by unifying database structure</li>
+        <li>Provided easy access to system data for use by process tracking software</li>
       </ul>
+
+      <h3>Built a Production Management System</h3>
+      <ul>
+        <li>Provided easily accessible production schedule</li>
+        <li>Eliminated paper-based metric tracking system</li>
+        <li>Reduced manual entry by integrating with master data and time series data sources</li>
+      </ul> -->
     </div>
   </body>
 </html>
