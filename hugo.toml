@@ -1,0 +1,4 @@
+baseURL = 'https://jonathanrigsby.com/'
+languageCode = 'en-us'
+title = "Jonathan Rigsby's Blog"
+theme = 'PaperMod'
