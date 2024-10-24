@@ -2,3 +2,5 @@ baseURL = 'https://jonathanrigsby.com/'
 languageCode = 'en-us'
 title = "Jonathan Rigsby's Blog"
 theme = 'PaperMod'
+[taxonomies]
+  tag = 'tags'
