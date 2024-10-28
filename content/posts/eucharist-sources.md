@@ -125,3 +125,9 @@ Yes, there are several other early sources that suggest or directly mention a we
 7. The Council of Elvira (early 4th century): Canon 21 of this council mentions the practice of bringing the Eucharist to church every Sunday, suggesting a weekly celebration.
 
 These sources, along with those mentioned earlier, provide a strong indication that weekly communion was a common practice in many early Christian communities. However, it's important to remember that practices varied across different regions and time periods.
+
+
+## Possible Future Inclusions
+
+- https://www.the-highway.com/eucharist_Webster.html
+- https://www.the-highway.com/Bennett_trueandfalseworship.html
